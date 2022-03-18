@@ -1,1 +1,26 @@
-nnnnnn
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+
+h2 {
+    text-align: right;
+    padding: 0 10% 0 0;
+}
+
+.about {
+    padding: 0 100px 0 0;
+}
+
+p {
+    text-overflow: clip;
+}
+
+ul p {
+    
+}
